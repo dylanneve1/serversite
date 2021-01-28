@@ -65,7 +65,7 @@
     <div class="changelog">
         <h1 id="important-information">Info about server</h1>
 
-<h3 id="this-release-is-an-early-beta-preview-and-as-such-should-not-be-installed-on-a-primary-device-we-strongly-recommend-proceeding-with-caution">This server can be accessed in a few different ways other than this site.</h3>
+<h3 id="this-release-is-an-early-beta-preview-and-as-such-should-not-be-installed-on-a-primary-device-we-strongly-recommend-proceeding-with-caution">This server cane be accessed in a few different ways other than this site.</h3>
 <p>- SSH via REDACTED using default port 22.</p>
 <p>- VNC via REDACTED using default port 5900.</p>
 
